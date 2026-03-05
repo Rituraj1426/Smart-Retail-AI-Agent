@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Brand,Retail_Price,Discounted_Price,Description
+101,Apple iPhone 15 Pro,Electronics,Apple,134900,127990,Premium smartphone with titanium design and A17 Pro chip
+102,Samsung Galaxy S24 Ultra,Electronics,Samsung,129999,115999,Advanced Android phone with S-Pen and AI photography features
+103,OnePlus 12 5G,Electronics,OnePlus,64999,59999,Fast charging flagship killer phone with smooth display
+104,Google Pixel 8,Electronics,Google,75999,65999,Pure Android experience with incredible camera capabilities
+105,MacBook Air M2,Computers,Apple,114900,99990,Thin and light laptop with amazing battery life
+106,Dell XPS 15,Computers,Dell,185000,170000,High performance laptop for creators and professionals
+107,HP Pavilion x360,Computers,HP,65999,58999,Convertible touchscreen laptop for students
+108,Lenovo IdeaPad Slim 3,Computers,Lenovo,45990,38990,Budget friendly laptop for everyday office tasks
+109,Asus ROG Zephyrus,Computers,Asus,145000,132000,Powerful gaming laptop with dedicated graphics card
+110,iPad Air 5th Gen,Tablets,Apple,59900,52900,Versatile tablet perfect for note taking and media
+111,Sony WH-1000XM5,Audio,Sony,34990,29990,Industry leading noise cancelling over ear headphones
+112,AirPods Pro 2nd Gen,Audio,Apple,24900,21900,True wireless earbuds with spatial audio
+113,Bose QuietComfort Earbuds,Audio,Bose,26900,22900,Premium earbuds with excellent noise reduction
+114,JBL Flip 6 Bluetooth Speaker,Audio,JBL,11999,9999,Waterproof portable speaker with deep bass
+115,Boat Airdopes 141,Audio,boAt,4490,1299,Affordable wireless earbuds with long battery life
+116,Noise ColorFit Pro 4,Wearables,Noise,5999,2499,Smartwatch with fitness tracking and bluetooth calling
+117,Apple Watch Series 9,Wearables,Apple,41900,38900,Advanced health and fitness tracking smartwatch
+118,Samsung Galaxy Watch 6,Wearables,Samsung,29999,24999,Android smartwatch with sleep coaching
+119,Mi Power Bank 10000mAh,Accessories,Xiaomi,1999,999,Fast charging portable battery for mobiles
+120,SanDisk 128GB Pendrive,Accessories,SanDisk,1500,800,High speed USB flash drive for data storage
+121,Nike Air Max Mens,Footwear,Nike,5999,3499,Comfortable daily wear running shoes
+122,Adidas Ultraboost,Footwear,Adidas,14999,9999,Premium cushioned running shoes for athletes
+123,Puma Suede Classics,Footwear,Puma,4999,2999,Retro style casual sneakers for everyday wear
+124,Woodland Leather Boots,Footwear,Woodland,6995,4595,Durable outdoor boots for trekking and winter
+125,Bata Formal Oxfords,Footwear,Bata,2499,1499,Classic formal shoes for office wear
+126,Crocs Classic Clogs,Footwear,Crocs,2995,1995,Lightweight and water friendly casual footwear
+127,Skechers Go Walk,Footwear,Skechers,4599,3299,Slip on walking shoes with memory foam
+128,Red Tape Casual Sneakers,Footwear,Red Tape,3999,1299,Affordable and stylish synthetic leather sneakers
+129,Clarks Desert Boots,Footwear,Clarks,7999,5499,Premium suede leather boots for men
+130,Campus Sports Shoes,Footwear,Campus,1999,999,Budget friendly sports shoes for gym and running
+131,Levis Mens 511 Jeans,Clothing,Levis,3499,1899,Slim fit stretch denim jeans
+132,US Polo Assn T-Shirt,Clothing,US Polo,1499,799,Cotton crew neck graphic t-shirt
+133,Allen Solly Formal Shirt,Clothing,Allen Solly,1999,1199,Slim fit cotton formal shirt for men
+134,Biba Womens Kurta Set,Clothing,Biba,3999,1999,Traditional ethnic wear cotton printed kurta
+135,W for Woman Ethnic Dress,Clothing,W,2999,1499,Elegant festive wear dress for women
+136,Puma Track Pants,Clothing,Puma,2499,1299,Comfortable athletic track pants for workouts
+137,Jockey Cotton Trunks,Clothing,Jockey,499,499,Soft and breathable mens innerwear
+138,HnM Winter Hoodie,Clothing,HnM,2299,1499,Warm fleece lined pullover hoodie
+139,Zara Faux Leather Jacket,Clothing,Zara,5990,3990,Trendy biker style leather jacket
+140,FabIndia Cotton Kurta,Clothing,FabIndia,1899,1899,Handwoven traditional cotton kurta for men
+141,Tata Tea Premium 1kg,Groceries,Tata,600,450,Rich blend of Assam tea leaves
+142,Maggi Noodles 12 Pack,Groceries,Nestle,168,140,Instant masala noodles for quick snacks
+143,Aashirvaad Atta 5kg,Groceries,Aashirvaad,250,210,Whole wheat flour for soft rotis
+144,Amul Butter 500g,Groceries,Amul,275,260,Pasteurized delicious butter
+145,Kelloggs Corn Flakes 1kg,Groceries,Kelloggs,399,320,Healthy breakfast cereal fortified with vitamins
+146,Nescafé Classic Coffee 100g,Groceries,Nescafe,350,290,100 percent pure instant coffee powder
+147,Fortune Sunflower Oil 1L,Groceries,Fortune,180,140,Light and healthy cooking oil
+148,Daawat Basmati Rice 5kg,Groceries,Daawat,650,499,Premium long grain aromatic basmati rice
+149,Cadbury Dairy Milk Silk,Groceries,Cadbury,180,150,Smooth and creamy milk chocolate bar
+150,Lays Indias Magic Masala,Groceries,Lays,50,45,Crispy potato chips with Indian spices
+151,LOreal Revitalift Serum,Beauty,LOreal,999,749,Hydrating hyaluronic acid face serum
+152,Maybelline Fit Me Foundation,Beauty,Maybelline,599,450,Matte poreless liquid foundation
+153,Nivea Soft Moisturizer,Beauty,Nivea,399,250,Light everyday moisturizing cream
+154,Garnier Micellar Water,Beauty,Garnier,349,275,Gentle makeup remover and cleanser
+155,Philips Hair Dryer,Beauty,Philips,1295,995,Compact hair dryer with cool air setting
+156,Gillette Mach3 Razor,Personal Care,Gillette,299,250,Mens shaving razor with three blades
+157,Dove Body Wash 800ml,Personal Care,Dove,599,399,Deep moisture body wash for soft skin
+158,Colgate MaxFresh Paste,Personal Care,Colgate,150,120,Cooling toothpaste with mint crystals
+159,Head and Shoulders Shampoo,Personal Care,Head & Shoulders,450,350,Anti dandruff cooling shampoo
+160,Axe Dark Temptation Deo,Personal Care,Axe,299,199,Long lasting chocolate fragrance deodorant
+161,LG 1.5 Ton Split AC,Appliances,LG,45990,36990,Energy efficient inverter air conditioner
+162,Samsung 253L Refrigerator,Appliances,Samsung,28990,24990,Double door frost free fridge
+163,Whirlpool 7kg Washing Machine,Appliances,Whirlpool,18990,14990,Fully automatic top load washing machine
+164,Bosch 13 Place Dishwasher,Appliances,Bosch,52990,42990,Silent and water efficient home dishwasher
+165,Dyson V11 Vacuum Cleaner,Appliances,Dyson,54900,49900,Powerful cordless stick vacuum cleaner
+166,Pigeon Gas Stove 3 Burner,Kitchen,Pigeon,4995,1995,Glass top manual ignition gas stove
+167,Prestige Pressure Cooker 3L,Kitchen,Prestige,1590,1290,Aluminum inner lid pressure cooker
+168,Philips Mixer Grinder,Kitchen,Philips,4595,3195,750W heavy duty mixer with 3 jars
+169,Milton Thermosteel Flask,Kitchen,Milton,1250,850,24 hours hot and cold insulated water bottle
+170,Wonderchef Nutri Blend,Kitchen,Wonderchef,5000,2700,Compact blender for smoothies and juices
+171,Cosmic Byte Gaming Mouse,Gaming,Cosmic Byte,1499,699,RGB wired gaming mouse with adjustable DPI
+172,Redgear Pro Gamepad,Gaming,Redgear,1799,1099,Wireless controller for PC gaming
+173,Sony PlayStation 5 Console,Gaming,Sony,54990,49990,Next generation 4K gaming console
+174,Xbox Series S,Gaming,Microsoft,34990,29990,All digital compact gaming console
+175,Logitech Mechanical Keyboard,Gaming,Logitech,8995,5995,Clicky blue switch gaming keyboard
+176,Yonex Badminton Racquet,Sports,Yonex,1999,1299,Lightweight carbon graphite racquet
+177,Nivia Football Size 5,Sports,Nivia,899,599,Durable practice football for outdoor play
+178,Cosco Tennis Ball Pack of 6,Sports,Cosco,450,350,Heavy duty cricket and tennis balls
+179,Strauss Yoga Mat,Sports,Strauss,999,499,6mm anti slip exercise mat for gym and yoga
+180,Decathlon Dumbbell 5kg,Sports,Decathlon,1299,999,Hex rubber coated dumbbell for home gym
+181,American Tourister Suitcase,Luggage,American Tourister,7999,3499,Hard sided cabin luggage with spinner wheels
+182,Safari Large Trolley Bag,Luggage,Safari,8999,3999,Scratch resistant polycarbonate check in bag
+183,Skybags College Backpack,Luggage,Skybags,2499,999,Spacious daily use backpack with rain cover
+184,Fastrack Mens Wallet,Accessories,Fastrack,999,599,Genuine leather bi fold wallet
+185,RayBan Aviator Sunglasses,Accessories,RayBan,6590,5290,Classic UV protection polarized sunglasses
+186,Atomic Habits Book,Books,Penguin,799,450,Self help book about building good habits
+187,Rich Dad Poor Dad Book,Books,Plata,499,299,Personal finance and investing classic
+188,The Psychology of Money,Books,Harriman,399,250,Timeless lessons on wealth and greed
+189,Harry Potter Box Set,Books,Bloomsbury,4999,2999,Complete 7 book fantasy series collection
+190,Indian Polity by Laxmikanth,Books,McGraw,950,650,Comprehensive guide for civil services exams
+191,Pampers Active Baby Diapers,Baby,Pampers,1499,1099,Large size taped diapers pack of 78
+192,Johnson Baby Lotion,Baby,Johnson,450,350,Gentle daily moisturizer for baby skin
+193,Lego Classic Brick Box,Toys,Lego,4999,3999,Creative building blocks for kids
+194,Hot Wheels 5 Car Pack,Toys,Hot Wheels,749,599,Die cast metal toy cars
+195,Nerf Disruptor Blaster,Toys,Nerf,1299,899,Foam dart blaster toy gun
+196,Pedigree Adult Dog Food 3kg,Pets,Pedigree,750,650,Complete nutrition dry food for adult dogs
+197,Whiskas Cat Food 1.2kg,Pets,Whiskas,450,380,Ocean fish flavor dry food for cats
+198,Himalaya Neem Face Wash,Beauty,Himalaya,250,190,Herbal purifying face wash for pimples
+199,Dettol Liquid Handwash,Groceries,Dettol,220,180,Germ protection skincare handwash refill
+200,Godrej Aer Pocket,Home,Godrej,250,210,Bathroom air freshener assorted pack
